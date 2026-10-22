@@ -1,2 +1,1 @@
-# animation_style
-this repository includes css animation styles
+this file includes my animation practice work with timing function, delays,durations,iterations and worked with full dedication with key frames also
